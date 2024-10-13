@@ -1,0 +1,1 @@
+export { TransactionPage as default } from './Component';

@@ -1,0 +1,1 @@
+export { TopupPage as default } from './Component';
